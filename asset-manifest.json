@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ankittmodi/gym-website/static/css/main.88040ab6.css",
-    "main.js": "/ankittmodi/gym-website/static/js/main.1c7c53e1.js",
-    "static/js/453.b5f6cdd1.chunk.js": "/ankittmodi/gym-website/static/js/453.b5f6cdd1.chunk.js",
-    "static/media/hero_image.png": "/ankittmodi/gym-website/static/media/hero_image.e19ac0c6b1009c7280f5.png",
-    "static/media/t-image1.png": "/ankittmodi/gym-website/static/media/t-image1.c16c2c261034cf78ee57.png",
-    "static/media/image1.png": "/ankittmodi/gym-website/static/media/image1.1091417d32e491f0bbb6.png",
-    "static/media/image2.png": "/ankittmodi/gym-website/static/media/image2.82da8b2725df896d8a8e.png",
-    "static/media/t-image3.jpg": "/ankittmodi/gym-website/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
-    "static/media/image3.png": "/ankittmodi/gym-website/static/media/image3.69484cb0ee7687a8c28b.png",
-    "static/media/image4.png": "/ankittmodi/gym-website/static/media/image4.2c0d30b9ce1579eb1109.png",
-    "static/media/t-image2.jpg": "/ankittmodi/gym-website/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
-    "static/media/hero_image_back.png": "/ankittmodi/gym-website/static/media/hero_image_back.9f54bfba33048f4ca688.png",
-    "index.html": "/ankittmodi/gym-website/index.html",
-    "main.88040ab6.css.map": "/ankittmodi/gym-website/static/css/main.88040ab6.css.map",
-    "main.1c7c53e1.js.map": "/ankittmodi/gym-website/static/js/main.1c7c53e1.js.map",
-    "453.b5f6cdd1.chunk.js.map": "/ankittmodi/gym-website/static/js/453.b5f6cdd1.chunk.js.map"
+    "main.css": "/gym-website/static/css/main.88040ab6.css",
+    "main.js": "/gym-website/static/js/main.aae8c518.js",
+    "static/js/453.b5f6cdd1.chunk.js": "/gym-website/static/js/453.b5f6cdd1.chunk.js",
+    "static/media/hero_image.png": "/gym-website/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/t-image1.png": "/gym-website/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/gym-website/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/gym-website/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/t-image3.jpg": "/gym-website/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/gym-website/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/gym-website/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image2.jpg": "/gym-website/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/hero_image_back.png": "/gym-website/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/gym-website/index.html",
+    "main.88040ab6.css.map": "/gym-website/static/css/main.88040ab6.css.map",
+    "main.aae8c518.js.map": "/gym-website/static/js/main.aae8c518.js.map",
+    "453.b5f6cdd1.chunk.js.map": "/gym-website/static/js/453.b5f6cdd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88040ab6.css",
-    "static/js/main.1c7c53e1.js"
+    "static/js/main.aae8c518.js"
   ]
 }
