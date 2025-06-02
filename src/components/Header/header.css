@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header img{
+    width:10rem;
+    height:3rem;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#ffff;
+    gap:3rem;
+    padding-top: 0.6rem;
+    font-size:20px;
+    font-weight: 500;
+}
+
+.list li:hover{
+    color: var(--orange);
+    cursor: pointer;
+}
+
